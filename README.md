@@ -149,3 +149,14 @@ mysql> show columns from users;
 	```
 
 - **+1 point** - Style the pages using a preferred framework (e.g. bootstrap, vuetify, etc.).
+<br>
+<hr>
+<br>
+
+<p align="center">
+:four_leaf_clover:  Good luck!
+</p>
+
+<p align="center">
+<small>Prepared for SSA Academy Software and Web Developer Applicants only.<br>Do not reproduce document elsewhere.</small>
+</p>
