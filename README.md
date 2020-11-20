@@ -13,7 +13,7 @@ Passing grade is 40. See breakdown below for more detail.
 |  -----: | ----: | ----: |
 |      60 |    12 |    72 |
 
-**Asessment Duration**: Examinee is given 2 days to complete the assessment. On a separate spreadsheet, please log the time spent per functionality (start time and end time).
+**Asessment Duration**: Examinee is given 1 days to complete the assessment. On a separate spreadsheet, please log the time spent per functionality (start time and end time).
 For any questions regarding the exam please send inquiry to <a href="mailto:sandy@ssagroup.com">sandy@ssagroup.com</a> or HR.
 
 **Output**: Examinee is expected to send an email with attachment to their output files (preferably a zip file). Alternatively, examinee can attach a link to their GitHub Repository, Google Drive, Dropbox, or any other storage service to download the output if the file is too large to be attached on email, or for other reason.
